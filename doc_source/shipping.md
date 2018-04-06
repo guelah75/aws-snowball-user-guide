@@ -52,5 +52,7 @@ Before you create a job, you should sign in to the console from the AWS Region t
 
 + For data transfers in the Asia Pacific \(Singapore\) region, we only ship Snowballs to Singapore\.
 
++ For data transfers in South America \(Sao Paulo\) region, we only ship Snowballs to Brazil\.
+
 **Note**  
 AWS doesn't ship Snowballs to post office boxes\.
